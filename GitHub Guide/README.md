@@ -1,1 +1,1 @@
-# This part contains some notes about how to use GitHub or Git
+# Notes on how to use GitHub or Git
