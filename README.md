@@ -1,5 +1,5 @@
-# Study_Notes
-Notes For Learning Stuff
+# Tech_Notes
+Notes For Technology Learning Stuff
 
 * GitHub Guide Hello-World
 * 实验楼 在Github Pages上部署自己的简历
